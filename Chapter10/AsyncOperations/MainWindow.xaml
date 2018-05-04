@@ -1,0 +1,15 @@
+﻿<Window x:Class="AsyncOperations.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="437" Width="653">
+    <Grid>
+        <Button x:Name="StartAsync" Content="Click Me!" HorizontalAlignment="Left" Margin="36,35,0,0" VerticalAlignment="Top" Width="75" FontSize="16" Click="StartAsync_Click" Height="34"/>
+        <Label x:Name="lblResult" Content="Result is coming..." HorizontalAlignment="Left" Margin="207,331,0,0" VerticalAlignment="Top" Width="235" FontSize="18"/>
+        <Button x:Name="AsyncWrong" Content="Time Consuming OP" HorizontalAlignment="Left" Margin="135,35,0,0" VerticalAlignment="Top" Width="206" FontSize="16" FontWeight="Bold" Height="34" Click="AsyncWrong_Click"/>
+        <Button x:Name="AsyncRight" Content="Time Consuming OP" HorizontalAlignment="Left" Margin="360,35,0,0" VerticalAlignment="Top" Width="215" FontSize="16" FontWeight="Bold" Height="34" Click="AsyncRight_Click"/>
+        <Button x:Name="CallingLongRunningMethod" Content="Calling a longrunning method" HorizontalAlignment="Left" Margin="78,90,0,0" VerticalAlignment="Top" Width="263" Height="36" FontSize="16" FontWeight="Bold" Click="CallingLongRunningMethod_Click"/>
+        <Button x:Name="CallbackCall" Content="Using Callback" HorizontalAlignment="Left" Margin="360,90,0,0" VerticalAlignment="Top" Width="215" FontSize="16" FontWeight="Bold" Height="36" Click="CallbackCall_Click"/>
+        <ListBox x:Name="lstData" HorizontalAlignment="Left" Height="174" Margin="36,149,0,0" VerticalAlignment="Top" Width="145"/>
+
+    </Grid>
+</Window>
