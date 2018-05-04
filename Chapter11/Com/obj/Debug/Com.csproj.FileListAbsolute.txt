@@ -1,0 +1,6 @@
+E:\Michael\Demos\Chapter11\Com\bin\Debug\Com.exe.config
+E:\Michael\Demos\Chapter11\Com\bin\Debug\Com.exe
+E:\Michael\Demos\Chapter11\Com\bin\Debug\Com.pdb
+E:\Michael\Demos\Chapter11\Com\obj\Debug\Com.csprojResolveAssemblyReference.cache
+E:\Michael\Demos\Chapter11\Com\obj\Debug\Com.exe
+E:\Michael\Demos\Chapter11\Com\obj\Debug\Com.pdb

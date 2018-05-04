@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task", "Task\Task.csproj", "{7CC86899-A0DD-456B-A6A8-D4A35A35CD14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncOperations", "AsyncOperations\AsyncOperations.csproj", "{D8798D11-977C-4BA4-A266-E25EB95792F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CC86899-A0DD-456B-A6A8-D4A35A35CD14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC86899-A0DD-456B-A6A8-D4A35A35CD14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC86899-A0DD-456B-A6A8-D4A35A35CD14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC86899-A0DD-456B-A6A8-D4A35A35CD14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8798D11-977C-4BA4-A266-E25EB95792F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8798D11-977C-4BA4-A266-E25EB95792F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8798D11-977C-4BA4-A266-E25EB95792F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8798D11-977C-4BA4-A266-E25EB95792F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

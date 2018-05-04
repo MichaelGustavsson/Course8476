@@ -1,0 +1,10 @@
+E:\Michael\Demos\Chapter12\Attribute\bin\Debug\Attribute.exe.config
+E:\Michael\Demos\Chapter12\Attribute\bin\Debug\Attribute.exe
+E:\Michael\Demos\Chapter12\Attribute\bin\Debug\Attribute.pdb
+E:\Michael\Demos\Chapter12\Attribute\obj\Debug\Attribute.exe
+E:\Michael\Demos\Chapter12\Attribute\obj\Debug\Attribute.pdb
+E:\Michael\Demos\Chapter12\Attribute\bin\Debug\DemoAttribute.dll
+E:\Michael\Demos\Chapter12\Attribute\bin\Debug\HumanResources.dll
+E:\Michael\Demos\Chapter12\Attribute\bin\Debug\DemoAttribute.pdb
+E:\Michael\Demos\Chapter12\Attribute\bin\Debug\HumanResources.pdb
+E:\Michael\Demos\Chapter12\Attribute\obj\Debug\AttributeDemo.csprojResolveAssemblyReference.cache

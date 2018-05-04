@@ -1,0 +1,5 @@
+E:\Michael\Demos\Chapter12\DemoAttribute\obj\Debug\DemoAttribute.csprojResolveAssemblyReference.cache
+E:\Michael\Demos\Chapter12\DemoAttribute\bin\Debug\DemoAttribute.dll
+E:\Michael\Demos\Chapter12\DemoAttribute\bin\Debug\DemoAttribute.pdb
+E:\Michael\Demos\Chapter12\DemoAttribute\obj\Debug\DemoAttribute.dll
+E:\Michael\Demos\Chapter12\DemoAttribute\obj\Debug\DemoAttribute.pdb

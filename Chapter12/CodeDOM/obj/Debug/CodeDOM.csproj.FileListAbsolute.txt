@@ -1,0 +1,6 @@
+E:\Michael\Demos\Chapter12\CodeDOM\bin\Debug\CodeDOM.exe.config
+E:\Michael\Demos\Chapter12\CodeDOM\bin\Debug\CodeDOM.exe
+E:\Michael\Demos\Chapter12\CodeDOM\bin\Debug\CodeDOM.pdb
+E:\Michael\Demos\Chapter12\CodeDOM\obj\Debug\CodeDOM.csprojResolveAssemblyReference.cache
+E:\Michael\Demos\Chapter12\CodeDOM\obj\Debug\CodeDOM.exe
+E:\Michael\Demos\Chapter12\CodeDOM\obj\Debug\CodeDOM.pdb
