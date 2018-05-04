@@ -1,0 +1,11 @@
+/Users/MichaelG/Code/Course-20483/Demos/chapter-5/bin/Debug/netcoreapp2.0/chapter5.deps.json
+/Users/MichaelG/Code/Course-20483/Demos/chapter-5/bin/Debug/netcoreapp2.0/chapter5.runtimeconfig.json
+/Users/MichaelG/Code/Course-20483/Demos/chapter-5/bin/Debug/netcoreapp2.0/chapter5.runtimeconfig.dev.json
+/Users/MichaelG/Code/Course-20483/Demos/chapter-5/bin/Debug/netcoreapp2.0/chapter5.dll
+/Users/MichaelG/Code/Course-20483/Demos/chapter-5/bin/Debug/netcoreapp2.0/chapter5.pdb
+/Users/MichaelG/Code/Course-20483/Demos/chapter-5/obj/Debug/netcoreapp2.0/chapter5.csproj.CoreCompileInputs.cache
+/Users/MichaelG/Code/Course-20483/Demos/chapter-5/obj/Debug/netcoreapp2.0/chapter5.AssemblyInfoInputs.cache
+/Users/MichaelG/Code/Course-20483/Demos/chapter-5/obj/Debug/netcoreapp2.0/chapter5.AssemblyInfo.cs
+/Users/MichaelG/Code/Course-20483/Demos/chapter-5/obj/Debug/netcoreapp2.0/chapter5.dll
+/Users/MichaelG/Code/Course-20483/Demos/chapter-5/obj/Debug/netcoreapp2.0/chapter5.pdb
+/Users/MichaelG/Code/Course-20483/Demos/chapter-5/obj/Debug/netcoreapp2.0/chapter5.csprojResolveAssemblyReference.cache
